@@ -1,0 +1,11 @@
+CSS
+hsl(var()) ? 
+grid vs flex ?
+filters [data-content] ?
+::webkit ?
+
+
+
+---
+colors.dopely.top -> renklerin uyumu tüm kodlarıyla.
+scrollrevealjs -> kullanımı basit componentlerin animasyonlarını etkiliyor. component isimlerine göre.
